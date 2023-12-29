@@ -45,3 +45,7 @@ Before you begin, make sure you have the following:
 ## Running the Server
 
 To start the payment server, run the following command:
+
+```bash
+node server.js
+```
